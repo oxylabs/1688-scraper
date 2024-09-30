@@ -3,7 +3,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'url': 'https://fuzhuang.1688.com/nanzhuang?spm=a260k.dacugeneral.home2019category.2.663335e4bwa222'
 }
 
