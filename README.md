@@ -1,6 +1,6 @@
 # 1688 Scraper API
 
-[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
 Oxylabs' [1688 Scraper](https://oxylabs.io/products/scraper-api/ecommerce/1688?utm_source=github&utm_medium=repositories&utm_campaign=product) (a part of Web Scraper API) is a data gathering solution allowing you to extract real-time information from an 1688 website effortlessly. This brief guide showcases how 1688 Scraper works, along with code examples to help you better understand how to use it hassle-free.
 
