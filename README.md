@@ -8,7 +8,7 @@ Oxylabs' [1688 Scraper](https://oxylabs.io/products/scraper-api/ecommerce/1688?u
 
 ### How it works
 
-You can get 1688 results by providing your own URLs to our service. We can return the HTML for any page you like.
+You can get 1688 results by providing your own URLs to our service. We can return the HTML, parsed JSON, or Markdown output for any page you like.
 
 #### Python code example
 
