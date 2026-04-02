@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-Using our 1688 Scraper, you can easily harvest public data from any 1688 web page. Gather essential mobile phone data, such as price, reviews, or specific features, to monitor the market and outperform your competitors. If you require any assistance, connect with our support team through our live chat or email us at hello@oxylabs.io.
+Using our 1688 Scraper, you can easily harvest public data from any 1688 web page. Gather essential mobile phone data, such as price, reviews, or specific features, to monitor the market and outperform your competitors. If you require any assistance, connect with our support team through our live chat or email us at support@oxylabs.io.
