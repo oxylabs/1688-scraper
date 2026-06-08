@@ -4,7 +4,7 @@
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
-Oxylabs [1688 Scraper](https://oxylabs.io/products/scraper-api/ecommerce/1688?utm_source=github&utm_medium=repositories&utm_campaign=product) (part of Web Scraper API) is a real-time data gathering solution that uses a fast-adapting infrastructure for effortless 1668 product data extraction. It combines **automated proxy management, unblocking, and parsing** to collect structured data from any public website at scale.
+Oxylabs [1688 Scraper](https://oxylabs.io/products/scraper-api/ecommerce/1688?utm_source=github&utm_medium=repositories&utm_campaign=product) (part of Web Scraper API) is a real-time data gathering solution that uses a fast-adapting infrastructure for effortless 1668 product data extraction. It combines **automated proxy management, web data access, and parsing** to collect structured data from any public website at scale.
 
 This brief guide showcases how the 1688 Scraper works, along with code examples to help you better understand how to use it hassle-free.
 
